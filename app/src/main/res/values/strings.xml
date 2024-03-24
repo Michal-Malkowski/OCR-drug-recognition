@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">OCRDrugRecognition</string>
+    <string name="rozpoznawanie_nazw_lekow">Rozpoznawanie nazw leków</string>
+    <string name="wybierz_zdjecie">Wybierz zdjęcie</string>
+    <string name="kopiuj">Kopiuj</string>
+    <string name="wybierz_kolejne">Wybierz kolejne zdjęcie</string>
+    <string name="skopiowano">Skopiowano!</string>
+    <string name="nazwa_leku">Nazwa leku:</string>
+    <string name="opis">Opis:</string>
+    <string name="wybierz_kolejne_zdj_cie">Wybierz kolejne zdjęcie</string>
+    <string name="paracetamol">Paracetamol</string>
+</resources>
